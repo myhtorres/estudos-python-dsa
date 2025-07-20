@@ -175,5 +175,3 @@ dict_aninhado
 dict_aninhado['key1']['key2_aninhada']['key3_aninhada']
 'Dict aninhado em Python'
 Fim
-
-Adiciona exercícios de dicionários do Capítulo 04
